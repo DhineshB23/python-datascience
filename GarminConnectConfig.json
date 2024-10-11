@@ -4,10 +4,10 @@
         "password"                      : "Dino@1992"
     },
     "data": {
-        "weight_start_date"             : "01/01/2019",
-        "sleep_start_date"              : "01/01/2019",
-        "rhr_start_date"                : "01/01/2019",
-        "monitoring_start_date"         : "01/01/2019",
+        "weight_start_date"             : "01/01/2024",
+        "sleep_start_date"              : "01/01/2024",
+        "rhr_start_date"                : "01/01/2024",
+        "monitoring_start_date"         : "01/01/2024",
         "download_latest_activities"    : 25,
         "download_all_activities"       : 1000
     },
